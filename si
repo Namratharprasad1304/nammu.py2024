@@ -1,0 +1,5 @@
+principle=int(input('enter the values : '))
+rate=int(input('enter the values : '))
+time=int(input('enter the values : '))
+simple_interest=(principle*rate*time)/100
+print(simple_interest)
