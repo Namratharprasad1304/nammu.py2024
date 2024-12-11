@@ -1,0 +1,6 @@
+def sum_of_natural_numbers(n):
+    return sum(range(1, n + 1))
+
+number = int(input("Enter a number: "))
+result = sum_of_natural_numbers(number)
+print(f"The sum of the first {number} natural numbers is {result}.")
