@@ -1,0 +1,5 @@
+number=int(input("enterthe start of the range:"))
+if number%2==0:
+  print("even number")
+else:
+  print("odd number")
