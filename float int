@@ -1,0 +1,18 @@
+# Asking for a float input, though it's not used in the loop
+a = float(input("Enter a number: "))
+
+# Loop through the range from 50 to 99
+for i in range(50, 100):
+    if i <= 100:
+        print(f"{i} is less than or equal to 100")
+    else:
+        print(f"{i} is greater than 100")
+# Asking for a float input, though it's not used in the loop
+a = float(input("Enter a number: "))
+
+# Loop through the range from 50 to 99
+for i in range(50, 100):
+    if i <= 100:
+        print(f"{i} is less than or equal to 100")
+    else:
+        print(f"{i} is greater than 100")
