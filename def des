@@ -1,0 +1,4 @@
+def describe_person(**kwargs):
+  for key, value in kwargs.items():
+    print(f"{key}:{value}")
+describe_person(name="Alice", age=25, city="New York")
