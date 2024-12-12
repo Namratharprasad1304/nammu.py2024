@@ -1,0 +1,3 @@
+def nam(name, message):
+  print(name + ","+message"!")
+nam(name=nammu, message="hello")  
