@@ -1,0 +1,15 @@
+numbers=[1,2,3,4,5]
+numbers
+mixed=[1,"hello",3.14]
+mixed
+print(numbers[0])
+print(numbers[-1])
+numbers[0]=10
+print(numbers)
+numbers.insert(1,15)
+numbers
+numbers.append(6)
+numbers
+numbers.remove(15)
+numbers
+numbers.pop(2)
