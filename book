@@ -1,0 +1,6 @@
+book={
+    "title":"python basics",
+    "author":"john doe",
+    "year":2022
+}
+book
