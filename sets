@@ -1,0 +1,27 @@
+student={
+    "name" : "Alice",
+    "age"  : 20,
+    "marks": 85
+    }
+student   
+student["marks"]
+student["age"]
+del student["age"]
+student
+numbers={1,2,3,4,5}
+numbers
+numbers.add(6)
+numbers
+fruits=["apple","banana","cherry"]
+fruits
+fruits.append("orange")
+fruits
+fruits=["apple","banana","cherry"]
+fruits
+fruits.remove("banana")
+fruits
+fruits.remove("banana")
+fruits
+set1={1,2,3,4}
+set2={3,4,5,6}
+set1.union(set2)
