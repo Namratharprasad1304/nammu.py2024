@@ -1,0 +1,3 @@
+with open("/content/namratha.txt")as file:
+  content=file.read()
+  print(content)
