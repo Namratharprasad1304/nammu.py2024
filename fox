@@ -1,0 +1,2 @@
+with open("/FOX.jpg","rb") as file:
+ data=file.read()
