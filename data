@@ -1,0 +1,5 @@
+with open("data.namratha.txt","w")as file:
+  file.write("Python is awesome!\n")
+
+with open("data.namratha.txt","r")as file:
+  print(file.read())
